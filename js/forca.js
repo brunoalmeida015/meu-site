@@ -286,7 +286,7 @@ function carregaListaAutomatica(){
           }),
           (palavra020 = {
             nome: "INTERNET",
-            categoria: "REDE DE COMPUTADORES INTERCONECTADOS EM ESCALA GLOBAL.j",
+            categoria: "REDE DE COMPUTADORES INTERCONECTADOS EM ESCALA GLOBAL.",
           }),
           (palavra021 = {
             nome: "MICROPROCESSADORES",
